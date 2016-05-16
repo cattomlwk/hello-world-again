@@ -1,2 +1,3 @@
 # hello-world-again
 someting wrong...
+cin>>myself
